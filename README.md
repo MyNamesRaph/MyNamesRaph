@@ -1,1 +1,1 @@
-[![MyNamesRaph's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MyNamesRaph)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![MyNamesRaph's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MyNamesRaph&theme=great-gatsby)](https://github.com/pranesh-2005/github-readme-stats-fast)
